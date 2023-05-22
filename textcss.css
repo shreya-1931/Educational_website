@@ -1,0 +1,54 @@
+div.welcome{text-align:center;
+color:00ccff;}
+
+h1{
+   font-size:70;
+   margin-top:20px;}
+
+.nav ul{list-style-type:none;
+        font-size:60;
+        Width:400px;
+		height:600px;
+		margin-left:30px;
+		margin-right:10px;
+		margin-bottom:10px;
+		padding:40px;
+		float:left;
+		border-style:solid;
+		border-width:medium;}
+
+div.column{float:right;
+           margin-top:10px;
+           margin:0;
+           padding:5px;}
+		   
+ul.topnav li a{display:block;
+            text-decoration:none;
+			color:black;
+			background-color:white;}
+
+ul.topnav li a:hover:not(.active){background-color:#99ff66;
+                                color:black;}
+
+ul.topnav li a.active{background-color:navy;
+                   color:white;}
+div.columnc{float:right;
+           margin-left:50px;
+		   margin-right:20px;
+           margin-top:10px;
+           margin:0;
+		   padding:20px;
+		   border-style:dotted;}
+		   
+div.columns{float:right;
+           margin-left:50px;
+		   margin-right:20px;
+           margin-top:10px;
+           margin:0;
+		   padding:20px;
+		   border-style:dotted;}
+div.container{padding: 30px;}
+
+head
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+<meta name="viewport" content= "width=device-width, initial-scale=1">
